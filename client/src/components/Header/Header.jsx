@@ -10,7 +10,7 @@ const Header = () => {
             <div className="wrapper">
                 <Link className="link" to="/">
                     <div className="logo">
-                        <img src="img/logo-blanc.png" alt="" />
+                        <img src="img/logo-blanc.png" alt="logo de la marque" />
                     </div>
                 </Link>
                 <div className="navbar">
