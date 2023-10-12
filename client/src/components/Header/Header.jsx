@@ -10,7 +10,7 @@ const Header = () => {
             <div className="wrapper">
                 <Link className="link" to="/">
                     <div className="logo">
-                        <img src="img/logo.jpg" alt="" />
+                        <img src="img/logo-blanc.png" alt="" />
                     </div>
                 </Link>
                 <div className="navbar">
@@ -32,7 +32,7 @@ const Header = () => {
                     <Link className="link" to="/">
                         <div className="navbar-item navbar-item--arrow">
                             Aide
-                            <KeyboardArrowDownIcon />
+                            <KeyboardArrowDownIcon className="icons" />
                         </div>
                     </Link>
                     <Link className="link" to="/">
