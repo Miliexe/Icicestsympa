@@ -1,0 +1,23 @@
+.footer{
+    background-color: #ff8800;
+    min-height: 107.6px;
+    position: relative;
+    color: rgb(39, 39, 39);
+    .container{
+        display: flex;
+        flex-direction: column;
+    }
+    &-top{
+        padding: 15px 20px 0px;    
+    }
+    &-bot{
+        padding-bottom: 5px;  
+    }
+    ul{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        gap: 25px;
+        font-size: 14px;
+    }
+}

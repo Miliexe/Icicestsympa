@@ -5,6 +5,7 @@ body{
 }
 
 .app{
+    font-family: 'Concert One',display;
     .link {
         color: inherit;
         text-decoration: none;
@@ -13,5 +14,10 @@ body{
     h1,h2{
         font-family: 'Concert One',display;
         margin: 0px;
+    }
+
+    ul{
+        list-style: none;
+        padding: 0;
     }
 }
