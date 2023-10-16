@@ -1,6 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&display=swap');
+
+body{
+    margin: 0;
+}
+
 .app{
+    font-family: 'Concert One',display;
+    min-height: 100vh;
     .link {
         color: inherit;
         text-decoration: none;
+    }
+
+    h1,h2{
+        font-family: 'Concert One',display;
+        margin: 0px;
+    }
+
+    ul{
+        list-style: none;
+        padding: 0;
     }
 }

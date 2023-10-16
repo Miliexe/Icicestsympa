@@ -2,6 +2,7 @@ import { createBrowserRouter, RouterProvider, Outlet } from 'react-router-dom'
 import Footer from './components/Footer/Footer'
 import Header from './components/Header/Header'
 import Home from './pages/Home/Home'
+import 'normalize.css'
 import './app.scss'
 import Error404 from './pages/Error404/Error404'
 

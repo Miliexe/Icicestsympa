@@ -1,0 +1,52 @@
+.header{
+    background: linear-gradient(90deg, rgba(255,69,18,1) 0%, rgba(255,136,0,1) 100%);
+    display: flex;
+    justify-content: space-around;
+
+    .wrapper {
+        padding: 10px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-evenly;
+
+        .logo{
+            position: relative;
+            margin: auto;
+            img{
+                height: 60px;
+                filter: drop-shadow(2px 2px 3px);
+            }
+        }
+    }
+
+    .navbar{
+
+        .items{
+            display: flex;
+            flex-wrap: wrap;
+            flex-direction: row;
+            justify-content: center;
+            gap: 28px;
+            width: 100%;
+            
+            .item{
+                text-shadow: 2px 2px 4px #000;
+                font-family: 'Concert One',display;
+                color: #fff;
+                font-size: 16px;
+                font-weight: 600;
+                &--arrow{
+                    display: flex;
+                    flex-direction: row;
+                }
+            }
+        }
+        
+        .icons {
+            color: #fff;
+            cursor: pointer;
+            filter: drop-shadow(2px 2px 2px #000);
+        }
+    }
+}
