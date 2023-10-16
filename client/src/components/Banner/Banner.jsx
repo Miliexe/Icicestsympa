@@ -3,7 +3,7 @@ import './Banner.scss'
 
 const Banner = () => {
     return (
-        <section className="banner">
+        <header role="banner" className="banner">
             <div className="banner-img">
                 <img src="/img/banner.jpg" alt="banner" />
             </div>
@@ -18,7 +18,7 @@ const Banner = () => {
                     <h2>90s/00s Handmade Jewelry</h2>
                 </div>
             </div>
-        </section>
+        </header>
     )
 }
 

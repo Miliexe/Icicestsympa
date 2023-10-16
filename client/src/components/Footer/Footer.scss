@@ -1,8 +1,10 @@
 .footer{
     background-color: #ff8800;
     min-height: 107.6px;
-    position: relative;
+    position: sticky;
     color: rgb(39, 39, 39);
+    display: block;
+    top: 100%;
     .container{
         display: flex;
         flex-direction: column;

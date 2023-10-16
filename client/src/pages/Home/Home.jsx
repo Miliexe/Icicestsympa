@@ -6,7 +6,7 @@ import bague from '../../asset/2022/06/214373402_332966255144035_737381319740621
 
 const Home = () => {
     return (
-        <div className="home">
+        <main className="home">
             <Banner />
             <section id="1" className="info section-1">
                 <div className="top">
@@ -65,7 +65,7 @@ const Home = () => {
                     </div>
                 </div>
             </section>
-        </div>
+        </main>
     )
 }
 
