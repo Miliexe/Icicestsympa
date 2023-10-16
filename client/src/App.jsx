@@ -5,6 +5,7 @@ import Home from './pages/Home/Home'
 import 'normalize.css'
 import './app.scss'
 import Error404 from './pages/Error404/Error404'
+import Bijoux from './pages/Bijoux/Bijoux'
 
 const Layout = () => {
     return (
@@ -24,6 +25,10 @@ const router = createBrowserRouter([
             {
                 path: '/',
                 element: <Home />,
+            },
+            {
+                path: '/bijoux',
+                element: <Bijoux />,
             },
             {
                 path: '/*',

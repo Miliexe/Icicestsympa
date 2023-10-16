@@ -1,0 +1,14 @@
+.card{
+    flex-wrap: wrap;
+    width: 200px;
+    height: fit-content;
+    &__img{
+        border-radius: 15px;
+        width: inherit;
+        object-fit: cover;
+    }
+
+    & .card__title{
+        margin-bottom: 5px;
+    }
+}

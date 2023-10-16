@@ -1,0 +1,60 @@
+[
+	{
+		"id": "1",
+		"title": "Bracelet 1",
+		"cover": "https://i0.wp.com/icicestsympa.fr/wp-content/uploads/2021/10/1998CAM_2021_10_18_20_23_56_FN.jpg?zoom=2&resize=300%2C300&ssl=1",
+        "price": "15€"
+	},
+    {
+		"id": "2",
+		"title": "Bracelet 2",
+		"cover": "https://i0.wp.com/icicestsympa.fr/wp-content/uploads/2021/09/OldRoll_1634831841032.jpg?resize=300%2C300&ssl=1",
+        "price": "10€"
+	},{
+		"id": "3",
+		"title": "Bracelet 3",
+		"cover": "https://i0.wp.com/icicestsympa.fr/wp-content/uploads/2021/10/IMG_20210926_123518_518.jpg?resize=300%2C300&ssl=1",
+        "price": "17€"
+	},{
+		"id": "4",
+		"title": "Bracelet 4",
+		"cover": "https://i0.wp.com/icicestsympa.fr/wp-content/uploads/2021/10/OldRoll_1638377147416-scaled.jpg?resize=300%2C300&ssl=1",
+        "price": "15€ - 20€"
+	},
+	{
+		"id": "5",
+		"title": "Bracelet 5",
+		"cover": "https://i0.wp.com/icicestsympa.fr/wp-content/uploads/2021/10/1998CAM_2021_10_18_20_23_56_FN.jpg?zoom=2&resize=300%2C300&ssl=1",
+        "price": "15€"
+	},
+    {
+		"id": "6",
+		"title": "Bracelet 6",
+		"cover": "https://i0.wp.com/icicestsympa.fr/wp-content/uploads/2021/09/OldRoll_1634831841032.jpg?resize=300%2C300&ssl=1",
+        "price": "10€"
+	},
+	{
+		"id": "7",
+		"title": "Bracelet 7",
+		"cover": "https://i0.wp.com/icicestsympa.fr/wp-content/uploads/2021/10/IMG_20210926_123518_518.jpg?resize=300%2C300&ssl=1",
+        "price": "17€"
+	},
+	{
+		"id": "8",
+		"title": "Bracelet 8",
+		"cover": "https://i0.wp.com/icicestsympa.fr/wp-content/uploads/2021/10/OldRoll_1638377147416-scaled.jpg?resize=300%2C300&ssl=1",
+        "price": "15€ - 20€"
+	},
+	{
+		"id": "9",
+		"title": "Bracelet 9",
+		"cover": "https://i0.wp.com/icicestsympa.fr/wp-content/uploads/2021/10/1998CAM_2021_10_18_20_23_56_FN.jpg?zoom=2&resize=300%2C300&ssl=1",
+        "price": "15€"
+	},
+    {
+		"id": "10",
+		"title": "Bracelet 10",
+		"cover": "https://i0.wp.com/icicestsympa.fr/wp-content/uploads/2021/09/OldRoll_1634831841032.jpg?resize=300%2C300&ssl=1",
+        "price": "10€"
+	}
+]

@@ -1,0 +1,10 @@
+
+.gallery{
+   display: flex;
+   flex-wrap: wrap;
+   max-width: 1000px;
+   gap: 30px;
+   padding: 25px;
+   margin: 35px auto;
+   justify-content: center;
+}
